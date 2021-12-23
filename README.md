@@ -1,6 +1,5 @@
 # Boys & Girls Club of Conejo Tracker Emotion Tracker
 
-You can find the deployed project [here](https://b.bgexperiencetracker.dev/).
 
 ## Contributors
 
